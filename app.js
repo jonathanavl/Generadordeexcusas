@@ -1,6 +1,6 @@
 
 let who = ['El perro','Mi abuela','Mi tortuga','Mi canario', 'Mi gato'];
-let action = ['Se comio', 'orino', 'aplasto', 'rompio'];
+let action = ['se comio', 'orino', 'aplasto', 'rompio'];
 let what = ['mi tarea','mi telefono','el coche'];
 let when = ['antes de clases','justo cuando terminé','mientras almorzaba','mientras yo rezaba'];
 
