@@ -13,7 +13,7 @@ function excuseGenerator(who, action, what, when){
 }
 function onLoad(){
     var excusas = document.getElementById('excusas');
-    excusas.innerHTML = excuseGenerator(who, what,action, when);
+    excusas.innerHTML = excuseGenerator(who, action,what, when);
 }
 window.onload = onLoad;
 
