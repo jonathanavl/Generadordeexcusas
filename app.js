@@ -12,7 +12,7 @@ function excuseGenerator(who, action, what, when){
     return who[numwho] + " " + action[numaction] + " " + what[numwhat] + " " + when[numwhen];
 }
 function onLoad(){
-    var excusa = document.getElementById('excusas');
+    var excusas = document.getElementById('excusas');
     excusa.innerHTML = excuseGenerator(who, what,action, when);
 }
 window.onload = onLoad;
